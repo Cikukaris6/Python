@@ -1,0 +1,2 @@
+temp=eval(input("60:"))
+print("the temperatureis:",)
