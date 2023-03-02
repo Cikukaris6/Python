@@ -1,0 +1,9 @@
+#This program calculates area of a rectangle
+
+length = 3
+width = 6
+
+area = length * width
+area 
+
+print(area)

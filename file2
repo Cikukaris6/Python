@@ -1,2 +1,2 @@
 temp=eval(input("60:"))
-print("the temperatureis:",)
+print("the temperature is:",)

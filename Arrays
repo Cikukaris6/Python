@@ -1,0 +1,13 @@
+numbers =[10,20,50,6]
+numbers [2] =9
+print (numbers)
+
+cars =["Bmw","Porshe","Jeep"]
+cars.append("Toyota")
+print(cars)
+cars.remove("Bmw")
+print(cars)
+
+numbers=[9,11,15,16]
+numbers.pop(2)
+print(numbers)

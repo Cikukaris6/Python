@@ -1,0 +1,14 @@
+#upper
+name="kariuki"
+print(name.upper())
+print(name.lower())
+
+#checking for alpher numeric
+x="string"
+print(x.isalpha())
+
+password="string345"
+if password.isalpha():
+    print('invalid password')
+
+
